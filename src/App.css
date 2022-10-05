@@ -1,0 +1,51 @@
+#fourma {
+
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+#firstlast {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  align-content: space-between;
+  
+}
+
+.email {
+
+  display: flex;
+  height: 100px;
+  width: 100%;
+  margin-left: 33%;
+  
+}
+
+.password {
+
+display: flex;
+height: 100px;
+width: 100%;
+margin-left: 33%;
+}
+
+h2 { 
+  margin-top: 100px;
+  color: red;
+  border: black 2px;
+  text-align: center;
+  display: flex;
+  width: 100%;
+  margin-left: 33%;
+}
+
+.btn {
+
+  display: flex;
+  margin-left: 70%;
+  
+}
